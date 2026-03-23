@@ -57,7 +57,7 @@ Currently focused on learning **Web Security, Network Security, and Python** whi
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PratikBarbudhe&theme=highcontrast&type=png) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=PratikBarbudhe&theme=highcontrast&cache_seconds=1)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikBarbudhe&layout=compact&theme=highcontrast)
 
 ---
